@@ -6,7 +6,5 @@ class Person:
   def printname(self):
     print(self.firstname, self.lastname)
 
-
-
 x = Person("John", "Doe")
 x.printname()
