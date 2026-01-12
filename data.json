@@ -2,5 +2,6 @@
   "name": "Karthi",
   "role": "Cloud Engineer",
   "experience": 1,
-  "skills": ["AWS", "Linux", "Python", "Terraform"]
+  "skills": ["AWS", "Linux","docker" ,"Python", "Terraform"]
+
 }
