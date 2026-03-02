@@ -6,7 +6,6 @@ import math
 a=5
 print(math.ceil(a))
 import math
-
 n = float(input("Enter a number: "))
 
 square = n ** 2
@@ -22,3 +21,4 @@ print("Square root of", n, "=", square_root)
 print("log2(", n, ") =", log2_value)
 print("cos(", n, ") =", cos_value)
 print("e^", n, "=", exp_value)
+
