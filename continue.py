@@ -5,5 +5,4 @@ for i in abc:
     if i ==',':
         continue
     asd = asd + i
-
 print(asd)
