@@ -18,5 +18,7 @@ print(age)
 print(height)
 print(name)
 otp =47348
+msg =""
 print("your otp is "+ str(otp))
+
 print(type(otp))
