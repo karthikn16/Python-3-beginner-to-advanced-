@@ -1,6 +1,7 @@
 ant = "karthi keyan"
 king ='son'
 print (ant)
+print (ant+A)
 print (king.upper())
 print (king.lower())
 print (ant.title())
